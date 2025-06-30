@@ -5,23 +5,47 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://my.k2homes.com.au/k2homes_our_builds</loc>
+    <loc>https://my.k2homes.com.au/about-us-page</loc>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://my.k2homes.com.au/renovations</loc>
+    <loc>https://my.k2homes.com.au/our-preferred-partners-page</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my.k2homes.com.au/extensions</loc>
+    <loc>https://my.k2homes.com.au/our-cornerstone-page</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my.k2homes.com.au/about</loc>
-    <priority>0.7</priority>
+    <loc>https://my.k2homes.com.au/our-framework-page</loc>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://my.k2homes.com.au/contact</loc>
+    <loc>https://my.k2homes.com.au/our-commitment-page</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/services-renovations-page</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/services-extensions-page</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/services-custom-builds-page</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/our-builds-page</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/contact-us-opportunities-page</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://my.k2homes.com.au/frequently-asked-questions-page</loc>
     <priority>0.7</priority>
   </url>
 </urlset>
